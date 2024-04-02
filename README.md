@@ -1,4 +1,4 @@
-# CodeClauseIntern_GoldenProject-1
+# Flight Delay Prediction
 
 Welcome to the Flight Delay Prediction Model project! This repository contains a data science project focused on predicting flight delays using machine learning techniques.
 
